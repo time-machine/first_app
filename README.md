@@ -3,3 +3,7 @@
 This is the first application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org)
 by [Michael Hartl](http://michaelhartl.com).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/time-machine/first_app/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
